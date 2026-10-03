@@ -1,0 +1,8 @@
+previews/
+.publish/
+node_modules/
+.env
+.env.*
+*.log
+Thumbs.db
+.DS_Store
