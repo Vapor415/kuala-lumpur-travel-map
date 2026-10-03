@@ -1,5 +1,9 @@
 # 吉隆坡旅行地图 · 四天三晚
 
+公开网站：[访问旅行地图](https://vapor415.github.io/kuala-lumpur-travel-map/)。
+
+GitHub 仓库：[Vapor415/kuala-lumpur-travel-map](https://github.com/Vapor415/kuala-lumpur-travel-map)。
+
 打开 `index.html` 即可使用。需要联网加载 Leaflet 1.9.4、MarkerCluster 1.5.3、MapLibre GL JS 5.6.2、Leaflet 适配器 0.1.3 和 OpenFreeMap 矢量底图；不需要 API Key、安装依赖或构建。浏览器需支持 WebGL。
 
 网页文件已集中在 `D:\code\tourPlan\web-map`。在这个目录执行 `node server.cjs`，打开 http://localhost:8080。
